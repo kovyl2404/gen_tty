@@ -1,0 +1,6 @@
+.idea/
+_build/
+c_make/
+*.so
+c_src/gen_tty_proto.h
+src/gen_tty_proto.hrl
